@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="intro">Aprende una palabra con cada foto</string>
+    <string name="start">COMIENZA</string>
+    <string name="submit">Envía</string>
+    <string name="question_1">Pregunta 1</string>
+    <string name="question_2">Pregunta 2</string>
+    <string name="question_3">Pregunta 3</string>
+    <string name="question_4">Pregunta 4</string>
+    <string name="results_page">Siguiente para resultados</string>
+    <string name="reset">Reiniciar</string>
+</resources>

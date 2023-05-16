@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">QuizLingo</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="intro">Learn a word with every photo</string>
+    <string name="start">START</string>
+    <string name="submit">Submit</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="results_page">Next for results</string>
+    <string name="question_4">Question 4</string>
+    <string name="reset">Reset</string>
+</resources>
